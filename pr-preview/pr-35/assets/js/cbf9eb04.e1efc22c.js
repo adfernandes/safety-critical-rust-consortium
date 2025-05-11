@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarewesafetycriticalyet_org=self.webpackChunkarewesafetycriticalyet_org||[]).push([[9722],{8155:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/safety-critical-rust-consortium/pr-preview/pr-35/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
